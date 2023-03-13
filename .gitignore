@@ -1,0 +1,13 @@
+bin
+build
+.gradle
+.vscode
+
+.vscode
+.classpath
+.project
+.settings/
+
+.DS_Store
+.idea
+.metadata
